@@ -59,3 +59,4 @@ Telegram 交流：https://t.me/lggchina_rt
   - - 🚀 [美西优化线路 VPS 选型与验机速查手册（CN2 GIA / 9929 / CMIN2 路由特征）](./docs/us-vps-route-selection-cn2-9929-cmin2.md)
 - 🤖 [海外 AI 工具（ChatGPT / Claude / Gemini）防封与防降智网络自查清单（含 curl 地区检测命令）](./docs/ai-tools-clean-network-checklist.md)
 - 📱 [美区 TikTok 手机环境搭建与 0 播放自查清单（8项洗机标准 + 原因对照）](./docs/tiktok-phone-environment-checklist.md)
+- 🏢 [跨境工作室全屋软路由组网与拓扑参考（光猫桥接 + 主路由分流 + AP 隔离）](./docs/studio-network-topology-guide.md)
