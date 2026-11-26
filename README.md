@@ -55,3 +55,4 @@ Telegram 交流：https://t.me/lggchina_rt
 - 📺 [TikTok 海外直播网络排错与部署清单（5项体检指标 + MTR/BBR 命令）](./docs/tiktok-live-network-checklist.md)
 - - 🔍 [美国静态住宅 IP 与双 ISP VPS 验真手册（主流运营商 ASN 速查 + curl 检测命令）](./docs/us-residential-ip-audit-guide.md)
 - ⚙️ [3X-UI / S-UI / Sing-box 自建节点排错与优化速查手册（BBR/OOM/回程排查命令）](./docs/3x-ui-sing-box-troubleshooting.md)
+- - 🛡️ [跨境电商与海外社媒多账号防关联自查清单（6项体检 + 指纹浏览器/软路由隔离）](./docs/multi-account-anti-association-checklist.md)
