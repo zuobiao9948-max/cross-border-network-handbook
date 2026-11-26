@@ -1,0 +1,46 @@
+# Cross-Border Network & Overseas Social Media Handbook
+
+[中文版 README](./README.md) | **English**
+
+An open, practical engineering handbook for cross-border e-commerce sellers, overseas social media teams (TikTok, YouTube, Instagram), and developers. Covers clean residential IP auditing, OpenWrt soft router multi-device isolation, TikTok live streaming network optimization, VPS route selection (CN2 GIA / 9929 / CMIN2), and AI tool anti-ban setups.
+
+> Online diagnostic console, client downloads, and full guides: **[LGG CHINA (lggchina.com)](https://lggchina.com/)**
+
+---
+
+## Quick Start: One-Line Network & AI Environment Audit
+
+Run our read-only shell script (`scripts/check-env.sh`) on Linux or macOS to inspect your exit IPv4, ASN, IPv6 leak status, OpenAI/Claude region trace, and Linux TCP BBR status:
+
+```bash
+bash scripts/check-env.sh
+```
+
+---
+
+## Core Practical Guides (`docs/`)
+
+- **TikTok Live Streaming Lag & Drop Troubleshooting**: [`docs/tiktok-live-network-checklist.md`](./docs/tiktok-live-network-checklist.md)
+- **Soft Router Hardware Selection (N100 / R4S / J4125) & OpenWrt Checklist**: [`docs/soft-router-hardware-selection.md`](./docs/soft-router-hardware-selection.md)
+- **US Static Residential IP & Dual-ISP VPS Audit Guide (Verizon / AT&T / Comcast ASN)**: [`docs/us-residential-ip-audit-guide.md`](./docs/us-residential-ip-audit-guide.md)
+- **3X-UI / S-UI / Sing-box Node Troubleshooting & Optimization**: [`docs/3x-ui-sing-box-troubleshooting.md`](./docs/3x-ui-sing-box-troubleshooting.md)
+- **Multi-Account Anti-Association Checklist (Fingerprint Browser vs Soft Router)**: [`docs/multi-account-anti-association-checklist.md`](./docs/multi-account-anti-association-checklist.md)
+- **US VPS Route Selection (CN2 GIA / 9929 / CMIN2)**: [`docs/us-vps-route-selection-cn2-9929-cmin2.md`](./docs/us-vps-route-selection-cn2-9929-cmin2.md)
+- **Clean Network Checklist for ChatGPT, Claude & Gemini**: [`docs/ai-tools-clean-network-checklist.md`](./docs/ai-tools-clean-network-checklist.md)
+- **TikTok US Phone Setup & Zero-Views Checklist**: [`docs/tiktok-phone-environment-checklist.md`](./docs/tiktok-phone-environment-checklist.md)
+- **Full-Office Cross-Border Studio Network Topology**: [`docs/studio-network-topology-guide.md`](./docs/studio-network-topology-guide.md)
+- **Overseas Social Media Matrix 0-to-1 SOP**: [`docs/overseas-social-media-matrix-sop.md`](./docs/overseas-social-media-matrix-sop.md)
+
+---
+
+## Official Resources & Services
+
+- **Online IP / DNS / Speedtest Console**: [LGG CHINA (`lggchina.com`)](https://lggchina.com/)
+- **1-on-1 Deployment Services** (Direct Route ¥128 / Live-Stream Environment ¥268 / Soft Router ¥299–¥799): https://lggchina.com/services-2/
+- **AI Short-Video Scripting & Storyboard Workbench**: [LGG CHINA AIGC Workbench (`ll.lggchina.com`)](https://ll.lggchina.com/)
+- **AI Model & Multi-Account Tools Aggregator**: https://rt.lggchina.com/
+- **Contact / Telegram**: https://t.me/lggchina_rt
+
+## License
+
+MIT License — see [LICENSE](./LICENSE) for details.
