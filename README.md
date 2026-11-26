@@ -57,3 +57,4 @@ Telegram 交流：https://t.me/lggchina_rt
 - ⚙️ [3X-UI / S-UI / Sing-box 自建节点排错与优化速查手册（BBR/OOM/回程排查命令）](./docs/3x-ui-sing-box-troubleshooting.md)
 - - 🛡️ [跨境电商与海外社媒多账号防关联自查清单（6项体检 + 指纹浏览器/软路由隔离）](./docs/multi-account-anti-association-checklist.md)
   - - 🚀 [美西优化线路 VPS 选型与验机速查手册（CN2 GIA / 9929 / CMIN2 路由特征）](./docs/us-vps-route-selection-cn2-9929-cmin2.md)
+- 🤖 [海外 AI 工具（ChatGPT / Claude / Gemini）防封与防降智网络自查清单（含 curl 地区检测命令）](./docs/ai-tools-clean-network-checklist.md)
