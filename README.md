@@ -51,3 +51,5 @@ LGG CHINA AIGC 超级编导工作台：https://ll.lggchina.com/ （支持电商�
 
 Telegram 交流：https://t.me/lggchina_rt
 站长联系页：https://lggchina.com/contact-center/
+## 专项实操文档
+- 📺 [TikTok 海外直播网络排错与部署清单（5项体检指标 + MTR/BBR 命令）](./docs/tiktok-live-network-checklist.md)
