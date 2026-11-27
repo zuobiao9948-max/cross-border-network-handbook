@@ -63,3 +63,4 @@ Telegram 交流：https://t.me/lggchina_rt
 - 🏢 [跨境工作室全屋软路由组网与拓扑参考（光猫桥接 + 主路由分流 + AP 隔离）](./docs/studio-network-topology-guide.md)
 - 🌐 [外贸与跨境海外社媒矩阵 0 到 1 落地清单（网络底座 + 账号隔离 + AI 批量出片）](./docs/overseas-social-media-matrix-sop.md)
 - 🔒 [国内 IPv6 泄漏导致 Meta (Facebook/IG) 封号排查与根治手册（三大运营商前缀 + 关闭命令）](./docs/ipv6-leak-meta-facebook-fix.md)
+- 🔥 [TikTok 新号 7 天科学养号与垂直打标清单（每日动作表 + 3项验收标准）](./docs/tiktok-7day-account-warmup-sop.md)
